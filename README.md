@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo construir um modelo de dados baseado em Star Schema a partir da tabela única `Financial Sample`. A partir dessa tabela original, criamos tabelas de dimensões e fatos, reorganizando os dados para melhor eficiência e clareza nas análises. O processo envolveu a criação de novas tabelas, o uso de funções DAX para agregar dados, e a construção de relações entre as tabelas para formar o esquema estrela.
+Este projeto tem como objetivo construir um modelo de dados baseado em Star Schema a partir da tabela única `Financial Sample`. A partir dessa tabela original, foram criadas tabelas de dimensões e fatos, reorganizando os dados para melhor eficiência e clareza nas análises. O processo envolveu a criação de novas tabelas, o uso de funções DAX para agregar dados, e a construção de relações entre as tabelas para formar o esquema estrela.
 
 ## Estrutura do Projeto
 
